@@ -1,0 +1,16 @@
+{
+  "name": "bonus1",
+  "version": "1.0.1",
+  "description": "bonus1",
+  "main": "practica1.js",
+  "dependencies": {
+    "express": "^4.17.1",
+    "yargs": "^13.2.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "eider alejandro peña",
+  "license": "ISC"
+}
